@@ -1,4 +1,4 @@
-# hubot-ibmcloud-activity
+# hubot-ibmcloud-activity 
 
 Script package that exposes captured IBM Cloud activity for the last day and last week for those activities that emit to the `bot.activity` identifier with the appropriate activity document.
 
